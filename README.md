@@ -2,6 +2,8 @@
 
 Foi feito pra gerenciar uma clínica de massoterapia.
 
+Link do site: https://capstone-group3.vercel.app/
+
 # Usuário
 Pode criar contar, logar e agendar massagens de acordo com o catálogo além de poder ver um histórico com as sessões que já aconteceram ou irão acontecer. 
 
